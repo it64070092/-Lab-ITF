@@ -1,2 +1,5 @@
 # ITF-Lab 2021
-"# ITF-Lab 2020" 
+
+
+## Author
+Rawipas Pengruk 64070092 
